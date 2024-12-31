@@ -41,7 +41,7 @@ This repository contains a Google Colab notebook leveraging the Crew AI framewor
 ## Usage
 1. Open the Colab notebook:
    ```bash
-   https://colab.research.google.com/github/FaraazArsath/Content_Research_Agent/blob/main/your-notebook.ipynb
+   https://colab.research.google.com/github/FaraazArsath/Content_Research_Agent/blob/main/Agent_Research_Write_Article.ipynb
    ```
 2. Run each cell sequentially to:
    - Initialize agents.
