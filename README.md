@@ -50,7 +50,7 @@ This repository contains a Google Colab notebook leveraging the Crew AI framewor
 
 ## Colab Notebook
 We have included a Google Colab notebook for easy execution and experimentation. To use it:
-1. Navigate to the [Colab Notebook](https://colab.research.google.com/github/FaraazArsath/Content_Research_Agent/blob/main/your-notebook.ipynb).
+1. Navigate to the [Colab Notebook](https://colab.research.google.com/github/FaraazArsath/Content_Research_Agent/blob/main/Agent_Research_Write_Article.ipynb).
 2. Open the notebook in Google Colab.
 3. Execute the cells as described in the [Usage](#usage) section.
 
